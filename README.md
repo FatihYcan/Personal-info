@@ -19,3 +19,5 @@ Bu proje, HTML ve CSS kullanılarak yapılmış bir form uygulamasıdır. Uygula
 - Google Fonts
 
 ![bandicam 2024-08-11 15-29-44-077](https://github.com/user-attachments/assets/c8245241-987a-4638-8fb8-fee48e1cdbfa)
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/Personal-info/)
