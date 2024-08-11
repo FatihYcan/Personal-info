@@ -18,6 +18,6 @@ Bu proje, HTML ve CSS kullanılarak yapılmış bir form uygulamasıdır. Uygula
 - CSS
 - Google Fonts
 
-![bandicam 2024-08-11 15-29-44-077](https://github.com/user-attachments/assets/c8245241-987a-4638-8fb8-fee48e1cdbfa)
+![pi](https://github.com/user-attachments/assets/0cccbb2e-dff6-487e-a681-381ec545a1ef)
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Personal-info/)
